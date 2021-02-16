@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1581089175 source:c:\users\40742\desktop\stuffs\proiecte\eval nou\main.cpp
-	<iostream>
-	<cstring>
-	<cmath>
-	<stdlib.h>
-
